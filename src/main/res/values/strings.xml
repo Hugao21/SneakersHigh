@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sneakers High</string>
+    <string name="adidas"> Adidas Coreracer Masculino  </string>
+    <string name="v_adidas"> R$599,90 </string>
+    <string name="mizuno"> Tênis Mizuno </string>
+    <string name="v_mizuno"> R$290,90 </string>
+    <string name="nike"> Nike Air Max Infinity 2</string>
+    <string name="v_nike"> R$599,90 </string>
+    <string name="under">Under Armour Spawn 3 </string>
+    <string name="v_under">R$489,89</string>
+</resources>
